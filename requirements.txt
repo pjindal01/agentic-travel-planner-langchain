@@ -1,0 +1,10 @@
+# Agentic AI Travel Planner — LangChain + Groq LLM
+# Install: pip install -r requirements.txt
+# Note: Set GROQ_API_KEY before running (free at console.groq.com)
+
+langchain>=0.1.0
+langchain-groq>=0.0.1
+pydantic>=2.0.0
+streamlit>=1.20.0
+pandas>=1.5.0
+jupyter>=1.0.0
